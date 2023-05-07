@@ -1,0 +1,14 @@
+1. $ pwd
+/c/Users/wmend
+
+2. cambiar al directorio: cd OneDrive/Escritorio luego el comando mkdir ejercicios para crear la carpeta
+
+3. cd ejercicios
+
+4. Abrir VSCode, Archivo -> Agregar carpeta al área de trabajo
+
+5. Nueva Carpeta -> ejercicio1
+
+6. cd ejercicio1 -> touch README.md
+
+7. 
