@@ -1,7 +1,7 @@
 1. $ pwd
 /c/Users/wmend
 
-2. cd OneDrive/Escritorio luego mkdir ejercicios
+2. cd OneDrive/Escritorio -> mkdir ejercicios
 
 3. cd ejercicios
 
@@ -9,7 +9,7 @@
 
 5. mkdir ejercicio1
 
-6. cd ejercicio1 luego touch README.md
+6. cd ejercicio1 -> touch README.md
 
 7. git config --global user.name Rafael
    git config --global user.email wismarafael92@gmail.com
